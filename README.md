@@ -17,27 +17,27 @@
 <tr>
 <td align="center" width="50%">
 
-## 👨‍💻 About Me
+## About Me
 
-- 📍 Based in **Moodbidri, Mangalore 🇮🇳**
-- 🎓 **B.E. CSE @ AIET (VTU)**
-- 🔭 Focused on **MERN Stack, LLM Integration, Web3 & Cybersecurity**
-- 🏆 **Top 5** @ CUK-CS Hackathon (80+ teams)
-- 🏆 **Top 6** @ EKAIVA 2025 (130+ teams)
-- 🔐 Taught cybersecurity to **270+ students**
-- 💼 **Open to opportunities!**
+-  Based in **Moodbidri, Mangalore 🇮🇳**
+-  **B.E. CSE @ AIET (VTU)**
+-  Focused on **MERN Stack, LLM Integration, Web3 & Cybersecurity**
+-  **Top 5** @ CUK-CS Hackathon (80+ teams)
+-  **Top 6** @ EKAIVA 2025 (130+ teams)
+-  Taught cybersecurity to **270+ students**
+-  **Open to opportunities!**
 
 </td>
 <td align="center" width="50%">
 
-## 🚀 Currently
+##  Currently
 
-- 🔭 Working on **AI-powered full stack projects**
-- 🌱 Deepening expertise in **LLM Integration & DSA**
-- 🔐 Exploring **Ethical Hacking & Network Security**
-- 🎯 Targeting **top-tier SDE internships**
-- 💡 Passionate about **Web3 + AI convergence**
-- 📚 Studying: **Clean Architecture & OWASP Top 10**
+-  Working on **AI-powered full stack projects**
+-  Deepening expertise in **LLM Integration & DSA**
+-  Exploring **Ethical Hacking & Network Security**
+-  Targeting **top-tier SDE internships**
+-  Passionate about **Web3 + AI convergence**
+-  Studying: **Clean Architecture & OWASP Top 10**
 
 <br/>
 
@@ -57,16 +57,16 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🤖 TrustLens AI | 🌾 Smart Crop Detector | 🔐 Crypto Wallet | ✈️ Travel Management |
+|  TrustLens AI |  Smart Crop Detector |  Crypto Wallet |  Travel Management |
 |:---:|:---:|:---:|:---:|
 | AI bias detection platform with 8+ fairness metrics | CNN model with 92% accuracy across 15 disease categories | Ethereum wallet with AES encryption & Web3 | Real-time travel app with Google Maps integration |
 | `React` `Node.js` `Python` `LLM` | `Python` `CNN` `OpenCV` | `React` `MongoDB` `Web3` | `Next.js` `Firebase` `Maps API` |
-| 🏆 Top 5 @ CUK Hackathon | 200+ farmers assisted | 5+ ERC-20 tokens supported | 100+ test users |
-| [View →](https://github.com/nithin-rnitr) | [View →](https://github.com/nithin-rnitr) | [View →](https://github.com/nithin-rnitr) | [View →](https://github.com/nithin-rnitr) |
+|  Top 5 @ CUK Hackathon | 200+ farmers assisted | 5+ ERC-20 tokens supported | 100+ test users |
+| [View →](https://github.com/nithin-rnitr) | [View →](https://github.com/Nithin-R08/Smart-Crop-Disease-Detector) | [View →](https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies) | [View →](https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System) |
 
 </div>
 
@@ -120,22 +120,22 @@
 
 ---
 
-## 🏅 Achievements & Certifications
+##  Achievements & Certifications
 
 <div align="center">
 
-| 🏆 Hackathons & Community | 📜 Certifications |
+|  Hackathons & Community |  Certifications |
 |:---:|:---:|
-| 🥇 Top 5 Finalist – CUK-CS Hackathon (80+ teams) | Google Cybersecurity Professional Certificate |
-| 🥇 Top 6 Finalist – EKAIVA 2025 (130+ teams) | Computer Networks & Network Security – Coursera |
-| 🎤 Cybersecurity workshops for 120+ college students | Agile Project Management – Coursera |
-| 🏫 Digital safety sessions for 150+ school students | Cybersecurity Analyst Simulation – Deloitte (Forage) |
+|  Top 5 Finalist – CUK-CS Hackathon (80+ teams) | Google Cybersecurity Professional Certificate |
+|  Top 6 Finalist – EKAIVA 2025 (130+ teams) | Computer Networks & Network Security – Coursera |
+|  Cybersecurity workshops for 120+ college students | Agile Project Management – Coursera |
+|  Digital safety sessions for 150+ school students | Cybersecurity Analyst Simulation – Deloitte (Forage) |
 
 </div>
 
 ---
 
-## 🌐 Find Me Online
+##  Find Me Online
 
 <div align="center">
 
