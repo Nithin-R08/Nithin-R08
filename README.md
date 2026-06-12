@@ -1,14 +1,21 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nithin%20R&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nithin%20R&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Full+Stack+Apps+%F0%9F%9A%80;Hacking+for+Good+%F0%9F%94%90;LLM+%2B+Web3+%2B+Machine+Learning+%F0%9F%A7%A0;Top+5+Hackathon+Finalist+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Full+Stack+Apps+🚀;Ethical+Hacker+%26+Cybersecurity+Enthusiast;AI+%26+Web3+Innovator;LLM+Integration+Specialist)](https://git.io/typing-svg)
 
+</div>
+
+---
+
+<!-- Cybersecurity Themed Visual -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80" alt="Cybersecurity" style="border-radius: 10px; margin: 20px 0; max-width: 100%;"/>
 </div>
 
 ---
@@ -66,7 +73,7 @@
 | AI bias detection platform with 8+ fairness metrics | CNN model with 92% accuracy across 15 disease categories | Ethereum wallet with AES encryption & Web3 | Real-time travel app with Google Maps integration |
 | `React` `Node.js` `Python` `LLM` | `Python` `CNN` `OpenCV` | `React` `MongoDB` `Web3` | `Next.js` `Firebase` `Maps API` |
 |  Top 5 @ CUK Hackathon | 200+ farmers assisted | 5+ ERC-20 tokens supported | 100+ test users |
-| [View →](https://github.com/nithin-rnitr) | [View →](https://github.com/Nithin-R08/Smart-Crop-Disease-Detector) | [View →](https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies) | [View →](https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System) |
+| [View →](https://github.com/Nithin-R08/TrustLens-AI) | [View →](https://github.com/Nithin-R08/Smart-Crop-Disease-Detector) | [View →](https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies) | [View →](https://github.com/Nithin-R08) |
 
 </div>
 
@@ -150,12 +157,9 @@
 
 ---
 
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nithin-rnitr&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nithin-R08&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
