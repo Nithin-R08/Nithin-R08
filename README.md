@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1600" height="900" alt="readme" src="https://github.com/user-attachments/assets/f1bf5f7b-057e-4d6c-a694-f2e2d3803fe4" /><div align="center">
 
 <!-- Dynamic Header with Typing Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nithin%20R&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer" />
@@ -12,18 +12,6 @@
 </div>
 
 ---
-
-<!-- Cyberpunk Cybersecurity Themed Visual -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nithin-R08/Nithin-R08/main/cyberpunk-hacker.png" alt="Cyberpunk Hacker Setup" style="border-radius: 10px; margin: 20px 0; max-width: 100%;"/>
-</div>
-
----
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
 ## About Me
 
 -  Based in **Moodbidri, Mangalore 🇮🇳**
