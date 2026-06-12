@@ -13,9 +13,9 @@
 
 ---
 
-<!-- Cybersecurity Themed Visual -->
+<!-- Cyberpunk Cybersecurity Themed Visual -->
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80" alt="Cybersecurity" style="border-radius: 10px; margin: 20px 0; max-width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/Nithin-R08/Nithin-R08/main/cyberpunk-hacker.png" alt="Cyberpunk Hacker Setup" style="border-radius: 10px; margin: 20px 0; max-width: 100%;"/>
 </div>
 
 ---
